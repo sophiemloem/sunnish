@@ -1,0 +1,41 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.title{
+    background-color: rgb(92, 98, 98);
+    padding: 50px;
+    border: 2px solid black;
+    height: 100vh;
+    width: 100vh;
+    margin-left: 50vh;  
+}
+.one{
+    background-color: rgb(145, 182, 182);
+    padding:20px;
+    border: 2px solid black;
+    margin:0px;  
+}
+.Head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.frist{
+    margin-left: 4px;
+    margin-top: 4px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(128, 157, 158);
+    height: 30px;
+    width: 30px; 
+}
+
+
+ 
+
+
