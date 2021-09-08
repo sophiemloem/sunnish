@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+table{
+    width: 100%;
+    margin-top: 20vh;
+
+}
+thead{
+    background-color: rgb(93, 187, 108);
+    color: blanchedalmond;
+}
+tr,th,td{
+    padding: 10px;
+}
+thead th:nth-child(odd){
+    background: black;
+    color: blanchedalmond;
+}
+thead th:nth-child(even){
+    background: rgb(50, 182, 17);
+    color: black;
+}
+tbody tr:nth-child(even){
+    background: rgb(123, 129, 129);
+}
+.black{
+    background: black;
+    color: blanchedalmond;
+}
